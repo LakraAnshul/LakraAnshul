@@ -1,9 +1,11 @@
 <div align="center">
 
 ## Hi there I'm Anshul Pratap Lakra👋
+</div>
 
 # 💫 About Me:
 🔭 I’m an aspiring Full Stack Developer.<br>🌱 I’m currently learning React Native and three.js<br>💬 Currently pursuing B.tech in Computer Science & Engineering from International Institute of Information Technology Naya Raipur<br>
+<div align="center">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshul_lakra07)
