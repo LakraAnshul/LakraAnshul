@@ -20,7 +20,7 @@
     <br>
     <img src="https://skillicons.dev/icons?i=flask,express,firebase,gcp,mysql,mongodb,postgres,sqlite,vercel,blender,figma,threejs,tailwind&perline=13" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git,github,linux,postman,tensorflow&perline=13" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,postman,tensorflow,supabase,vscode&perline=13" />
   </a>
 </p>
 
