@@ -14,9 +14,14 @@
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,python,powershell,nodejs,react,nextjs,flutter,fastapi,flask,express,firebase,gcp,mysql,mongodb,postgres,sqlite,vercel,blender,canva,figma,threejs,numpy,pandas,scikit-learn,matplotlib,tailwind,git,github,linux,postman,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,python,powershell,nodejs,react,nextjs,flutter,fastapi&perline=13" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=flask,express,firebase,gcp,mysql,mongodb,postgres,sqlite,vercel,blender,figma,threejs,tailwind&perline=13" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,postman,tensorflow&perline=13" />
   </a>
 </p>
+
 
 
 # 📊 GitHub Stats:
